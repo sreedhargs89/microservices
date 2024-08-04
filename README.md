@@ -37,3 +37,5 @@ The Quiz Service manages quizzes, including:
 - Creating quizzes
 - Associating questions with quizzes
 - Managing quiz results
+
+![image](https://github.com/user-attachments/assets/3dab58e5-7974-4dd7-b52c-234e919f7cb4)
